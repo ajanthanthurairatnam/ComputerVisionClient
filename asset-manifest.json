@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/computervisionclient/static/css/main.69eda509.chunk.css",
+    "main.js": "/computervisionclient/static/js/main.c95b3c99.chunk.js",
+    "main.js.map": "/computervisionclient/static/js/main.c95b3c99.chunk.js.map",
+    "runtime-main.js": "/computervisionclient/static/js/runtime-main.b35a1149.js",
+    "runtime-main.js.map": "/computervisionclient/static/js/runtime-main.b35a1149.js.map",
+    "static/js/2.af05d1db.chunk.js": "/computervisionclient/static/js/2.af05d1db.chunk.js",
+    "static/js/2.af05d1db.chunk.js.map": "/computervisionclient/static/js/2.af05d1db.chunk.js.map",
+    "index.html": "/computervisionclient/index.html",
+    "precache-manifest.1b0897c6f050c7f44d61d942f4172ee3.js": "/computervisionclient/precache-manifest.1b0897c6f050c7f44d61d942f4172ee3.js",
+    "service-worker.js": "/computervisionclient/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/computervisionclient/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.af05d1db.chunk.js.LICENSE.txt": "/computervisionclient/static/js/2.af05d1db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b35a1149.js",
+    "static/js/2.af05d1db.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.c95b3c99.chunk.js"
+  ]
+}
